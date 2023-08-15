@@ -6,6 +6,6 @@ The original dataset is from Open Sourcing Mental Illness
 
 This project aims to identify what factors in the workplace encourage or discourage tech employees to seek treatment for mental health.
 
-Part 1 - Exploratory Data Analysis
-Part 2 - NLP Word Cloud
-Part 3 - Modelling: Random Forest and Logistic Regression
+* Part 1 - Exploratory Data Analysis
+* Part 2 - NLP Word Cloud
+* Part 3 - Modelling: Random Forest and Logistic Regression
